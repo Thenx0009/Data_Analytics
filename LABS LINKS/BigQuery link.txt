@@ -1,0 +1,1 @@
+https://console.cloud.google.com/bigquery?project=bigquery-sandbox-377115&ws=!1m10!1m4!4m3!1sbigquery-sandbox-377115!2savocado_data!3savocado_prices!1m4!1m3!1sbigquery-sandbox-377115!2sbquxjob_4ace32b1_186410c8ff7!3sUS
